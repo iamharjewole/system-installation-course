@@ -9,11 +9,13 @@
 
 ![choco-package](choco-package.png)
 
-### Installation of Window Terminal
+## Installation of Window Terminal
 
 ## Installation of git
 
 ![git-2](git-2.png)
+
+## Git System Run
 
 ![git](git.png)
 
